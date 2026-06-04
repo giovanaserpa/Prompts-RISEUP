@@ -17,9 +17,9 @@ Este repositório tem como objetivo armazenar e gerenciar os prompts utilizados 
 
 ```text
 prompts/
-├── cadastro_usuario.md
-├── avaliacao_dados.md
-├── relatorio_governanca.md
+├── front-end.md
+├── história.md
+├── perguntas.md
 └── README.md
 ```
 
@@ -57,4 +57,4 @@ Versão Final – Junho de 2026
 
 ## Responsáveis
 
-Equipe de desenvolvimento do projeto.
+Equipe de desenvolvimento do projeto: Squad 7 - RISE UP Porto Digital. Equipe: Giovana Serpa, Beatriz Souza, Vanessa Cavalcanti, José Gabriel Ferreira, Júlia Rosa, Irardes Luna, Guilherme Ximenes, Guilherme Borges, Jonatas José da Silva, Miguel Bandeira, Cauã Richard de Lima.
